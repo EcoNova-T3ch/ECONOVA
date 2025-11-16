@@ -16,6 +16,7 @@ Econova está dirigida principalmente a dueños, directivos, gerentes de producc
 - Mejorar la eficiencia en el uso de sus recursos.
 - Implementar soluciones tecnológicas con un enfoque ecológico.
 - Reducir su impacto ambiental sin sacrificar el crecimiento del negocio.
+
 Los 2 principales segmentos objetivos son:
 1. Dueños o gerentes de PyMEs
 2. Jefes o gerentes de Producción
