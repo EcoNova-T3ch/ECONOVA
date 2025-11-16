@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ECONOVA - Reporte de Cumplimiento</title>
+    <link
+      rel="stylesheet"
+      href="public/assets/styles/reporte_cumplimiento.css"
+    />
+  </head>
+
+  <body>
+    <nav class="topheader">
+      <a href="index.html" class="Logo">
+        <img
+          src="public/assets/images/Imagen_Logo_Sin-Fondo.png"
+          alt="Logo Econova"
+        />
+        <span class="Logo-Texto">ECONOVA</span>
+      </a>
+
+      <ul class="Menu-Horizontal">
+        <li><a href="index.html">Inicio</a></li>
+        <li>
+          <a href="reporte-cumplimiento.html">Reportes</a>
+        </li>
+        <li><a href="">Cumplimientos</a></li>
+        <li><a href="">Contacto</a></li>
+      </ul>
+    </nav>
+
+    <main class="reporte-wrapper">
+      <section class="reporte-card">
+        <h1>Generar Reporte de Cumplimiento Ambiental</h1>
+
+        <div class="reporte-layout">
+          <div class="reporte-form-column">
+            <div class="field-group">
+              <label class="field-label">Rango de fechas</label>
+              <div class="date-range">
+                <div class="field-control">
+                  <input type="text" placeholder="Desde" class="input-text" />
+                  <span class="icon-calendar">📅</span>
+                </div>
+                <div class="field-control">
+                  <input type="text" placeholder="Hasta" class="input-text" />
+                  <span class="icon-calendar">📅</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Tipo de reporte -->
+            <div class="field-group">
+              <label class="field-label">Tipo de reporte</label>
+              <div class="select-wrapper">
+                <select class="select-report">
+                  <option>PDF</option>
+                  <option>Excel</option>
+                  <option>CSV</option>
+                </select>
+                <span class="icon-chevron">▾</span>
+              </div>
+            </div>
+
+            <button class="btn-generar">Generar</button>
+          </div>
+
+          <div class="reporte-preview-column">
+            <div class="preview-card">
+              <div class="chart-area">
+                <div class="chart-bars">
+                  <div class="bar bar-energy"></div>
+                  <div class="bar bar-water"></div>
+                </div>
+                <div class="chart-labels">
+                  <span>Energía</span>
+                  <span>Agua</span>
+                </div>
+              </div>
+
+              <div class="preview-info">
+                <div class="indicators">
+                  <p><strong>Indicadores</strong></p>
+                  <p>Energía &nbsp;&nbsp; 150 kWh</p>
+                  <p>Agua &nbsp;&nbsp; 120 m³</p>
+                </div>
+
+                <button class="btn-descargar">Descargar PDF</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
