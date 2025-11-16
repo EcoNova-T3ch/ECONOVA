@@ -8,7 +8,7 @@ El sitio comunica el mensaje central de la marca: **“Lleva tu empresa a otro n
 ## Autores
 
 - EcoNova-T3ch
-
+  
 ## Segmento Objetivo
 
 Econova está dirigida principalmente a dueños, directivos y equipos de pequeñas y medianas empresas que buscan:
