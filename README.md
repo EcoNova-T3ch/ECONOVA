@@ -30,4 +30,4 @@ Los 2 principales segmentos objetivos son:
 - **Diseño moderno y responsivo:** La interfaz emplea HTML5 y CSS para ajustarse a cualquier tipo de dispositivo, garantizando una experiencia visual limpia, organizada y con apariencia profesional.
 ## Propósito
 Buscamos hacer que las herramientas de gestión ambiental sean accesibles para todos, permitiendo que las PyMEs incorporen la sostenibilidad en sus operaciones diarias de forma sencilla, asequible y con resultados concretos.
-A su vez que seammos una multiplataforma para que se operare en dispositivos moviles y computadoras.
+A su vez que seamos una multiplataforma para que se operare en dispositivos moviles y computadoras.
