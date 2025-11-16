@@ -23,6 +23,6 @@ Econova está dirigida principalmente a dueños, directivos, gerentes de producc
 - **Enfoque sostenible:** Refuerza la idea de cuidar el planeta mediante prácticas empresariales responsables, alineando la imagen de la marca con la sostenibilidad.
 - **Soluciones empresariales:** Destaca secciones destinadas a mostrar los productos o servicios que Econova ofrece para apoyar la transformación verde de las empresas.
 - **Casos de éxito y confianza:** Contempla espacios para compartir casos de éxito y testimonios que respalden la efectividad de las soluciones propuestas.
-- **Diseño moderno y responsivo:** La interfaz está diseñada con HTML5 y CSS para adaptarse a distintos dispositivos, manteniendo una experiencia clara, visual y profesional.
+- **Diseño moderno y responsivo:** La interfaz emplea HTML5 y CSS para ajustarse a cualquier tipo de dispositivo, garantizando una experiencia visual limpia, organizada y con apariencia profesional.
 ## Propósito
 Buscamos hacer que las herramientas de gestión ambiental sean accesibles para todos, permitiendo que las PyMEs incorporen la sostenibilidad en sus operaciones diarias de forma sencilla, asequible y con resultados concretos.
